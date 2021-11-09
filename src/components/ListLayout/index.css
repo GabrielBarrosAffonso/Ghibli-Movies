@@ -1,0 +1,9 @@
+.ghibli-listing{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    background: #f6f6f6;
+    padding: 50px 0px;
+    justify-content: center;
+  }
