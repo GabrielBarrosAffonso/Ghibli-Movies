@@ -16,7 +16,7 @@ const ListLayout = () => {
     return(
         <section className="ghibli-listing">
             { movies.map((movie, index) => (
-                <Cards 
+                <Cards
                     key={index} 
                     title={movie.title}
                     original={movie.original_title}

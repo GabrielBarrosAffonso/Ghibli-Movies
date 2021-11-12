@@ -1,0 +1,44 @@
+.ghibli-movie-article{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ghibli-movie-title{
+    color: #909090;
+    font-family: 'PoppinsMedium';
+    font-size: 35px;
+    border-bottom: 2px solid #909090;
+    padding-bottom: 15px;
+}
+
+.ghibli-movie-original{
+    font-family: 'NotoSans';
+    padding: 5px 0px;
+    color: #c5c5c5;
+    font-size: 20px;
+    margin: 10px 0px;
+    display: flex;
+}
+
+.ghibli-movie-director , .ghibli-movie-producer{
+    color: #424242;
+    font-family: 'PoppinsMedium';
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+.ghibli-movie-infos{
+    margin-top: 30px;
+}
+
+.ghibli-movie-description{
+    color: #424242;
+    font-family: 'PoppinsRegular';
+    font-size: 15px;
+}
+
+.ghibli-movie-section{
+    max-width: 1300px;
+    margin: 0px auto;
+}
